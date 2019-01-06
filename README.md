@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# zall-research
-The codes are the website of  The Zall Research
-=======
+
 # ze-websitwebsit
 
 > A Vue.js project
@@ -29,7 +26,7 @@ npm run e2e
 
 # run all tests
 npm test
-```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
->>>>>>> 卓尔智联研究院
+# zall-research
+The codes are the website of  The Zall Research
+
