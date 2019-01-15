@@ -36,7 +36,7 @@ export default {
   height:400px;
   background:url(../assets/lb2.png) no-repeat center center; 
   /* background:url(https://g.alicdn.com/atastatic/s/damo/css/img/about-workplace.jpg) no-repeat center center; */
-  background-size:100% 100%;
+  background-size:cover;
 }
 h2{
   width:65%;
@@ -52,7 +52,7 @@ h2{
   width:29px;
   height: 27px;
   background:url(../assets/two.png) no-repeat center center;
-  background-size:100% 100%;
+  background-size:cover;
   display:inline-block;
   vertical-align: middle;
 }

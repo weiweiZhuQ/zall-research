@@ -33,7 +33,7 @@ export default {
   width:100%;
   height:400px;
   background:url(../../assets/newsbg.jpg) no-repeat center center; 
-  background-size:100% 100%;
+  background-size:cover;
 }
 h2{
   width:85%;

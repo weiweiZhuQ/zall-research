@@ -42,16 +42,12 @@
     
     <footer>
     <div class="footerContent">
-        <p>联系邮箱：info@zallai.com</p>
-        <p>地址：汉口北大道88号汉口电商大厦6层</p>
+         <p>Copyright © 2019All Right Reserved | 卓尔智联研究院版权所有 </p>
      </div>
-     <div class="footerContent">
-         <p>Copyright © 2017All Right Reserved | 卓尔智联研究院版权所有 </p>
-         <!-- <p>
-             <span><img src="http://www.zall.net/theme/bg/beianbgs1.png"></span><span >企业信息&nbsp;&nbsp;</span>
-             <span><img src="http://www.zall.net/theme/bg/beianbgs.png"></span><span><a href="#">鄂公网安备 42011602000531</a></span>
-         </p> -->
+    <div class="footerContent">
+        <p>联系邮箱：info@zallai.com | 地址：汉口北大道88号汉口电商大厦6层</p>
      </div>
+     
     </footer>
   </div>
 </template>
@@ -188,22 +184,16 @@ h1, h2 {
 }
 footer{
     width:100%;
-    /* padding:26px; */
+    padding:10px 0;
     background-color:#25b7aa;
     color:#fff;
 }
 .footerContent{
-    padding:26px;
-    display:inline-block;
+    padding:10px;
 }
-.footerContent:first-child{
-    width:40%;
+.footerContent p{
+    margin:auto;
+    text-align:center;
 }
-.footerContent:last-child{
-    width:50%;
-}
-.footerContent span{
-    height: 14px;
-    line-height:14px;
-}
+
 </style>

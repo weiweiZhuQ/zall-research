@@ -60,13 +60,13 @@ export default {
 }
 
 .news-top{
-  width:60%;
+  width:50%;
   background-color:#fbfcfd;
   /* margin: 10px;
   margin-bottom: 24px; */
-  -webkit-box-shadow: 5px 5px 5px #ccc;
-  -moz-box-shadow: 5px 5px 5px #ccc;
-  box-shadow: 5px 5px 5px #ccc;
+  -webkit-box-shadow: 3px 3px 3px #ccc;
+  -moz-box-shadow: 3px 3px 3px #ccc;
+  box-shadow: 3px 3px 3px #ccc;
   margin:auto;
   /* padding:10px; */
 }   
@@ -80,9 +80,9 @@ export default {
 }
 .left{
    position: relative; 
-  width: 25%;
+  width: 30%;
   height: 0;
-  padding-bottom: 25%;
+  padding-bottom: 30%;
 }
 .left img{
   position:  absolute; 
@@ -93,8 +93,8 @@ export default {
 }
 .name{
   position: absolute;
-  width:72%;
-  left:26%;
+  width:64%;
+  left:32%;
   top:5%;
   /* transform: translate(0,-50%);   */
   font-size: 18px;
@@ -115,8 +115,8 @@ export default {
 }
 .brief{
   position: absolute;
-  width:72%;
-  left:26%;
+  width:64%;
+  left:32%;
   bottom:5%;
  font-size: 16px;
   line-height: 32px;

@@ -98,7 +98,7 @@ export default {
   height:400px;
   background:url(../../assets/planbg.png) no-repeat center center; 
   /* background:url(https://g.alicdn.com/atastatic/s/damo/css/img/about-workplace.jpg) no-repeat center center; */
-  background-size:100% 100%;
+  background-size:cover;
 }
 h2{
   width:85%;

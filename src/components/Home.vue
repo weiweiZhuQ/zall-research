@@ -45,8 +45,8 @@
       </div>
     </div>
      <div class="contentright">
-      <div class="text">科技引领未来!</div>
-      <div class="en-text">Research for Solving Problems with Profit and Fun</div>
+      <div class="text">打造B2B商脉</div>
+      <div class="en-text">Discover the 1<sup>st</sup> Principle for B2B</div>
       <div class="sub-text">卓尔智联研究院是卓尔控股旗下专门研究人工智能、区块链等前沿技术的科技机构。致力于挖掘区块链、物联网等技术领域的精英人才，为科技新星提供被世界发现和关注的机会。</div>  
    </div>
   </div>
@@ -104,7 +104,7 @@ export default {
     width:100%;
     height:100%;
     background-repeat: no-repeat;
-    background-size:100% 100%;
+    background-size:cover;
   }
   .content{
     width:100%;
@@ -312,7 +312,7 @@ export default {
 .contentright{  
   width:100%;
   min-height:300px;
-  margin-top:20px;
+  margin-top:60px;
   /* background:url(../assets/albg.png) no-repeat center center; 
   background:url(../assets/albg.png); */
 
