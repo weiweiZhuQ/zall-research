@@ -60,7 +60,7 @@ export default {
     return {
       msg: '关于我们',
       leaders:[{img:require('../../assets/cai.jpg'),name:'蔡恒进',brief:'卓尔智联研究院院长，武汉大学计算机学院教授'},
-      {img:require('../../assets/sj.jpg'),name:'尚静',brief:'卓链资本创始合伙人,卓尔智联研究院常务副院长'}]
+      {img:require('../../assets/sj.jpg'),name:'尚静',brief:'卓链资本创始合伙人，卓尔智联研究院常务副院长'}]
       
     }
   }
@@ -78,7 +78,7 @@ export default {
 }
 h2{
   width:65%;
-  height: 50px;
+  /* height: 50px; */
   line-height:50px;
   border-bottom:2px solid #e6e6e6;
   padding:20px;

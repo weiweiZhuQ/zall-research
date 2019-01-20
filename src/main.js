@@ -9,6 +9,9 @@ import 'element-ui/lib/theme-chalk/index.css';
 Vue.use(ElementUI)
 Vue.config.productionTip = false
 
+import swiper from 'swiper';
+import 'swiper/dist/css/swiper.min.css';
+
 /* eslint-disable no-new */
 new Vue({
   el: '#app',

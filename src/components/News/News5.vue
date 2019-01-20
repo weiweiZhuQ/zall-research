@@ -1,7 +1,7 @@
 <template>
   <transition name="slide-up">
   <div class="pages">
-    <p class="big-title">HI，亲爱的数据算法与区块链爱好者们！</p>
+    <p class="sub-title text">HI，亲爱的数据算法与区块链爱好者们！</p>
     <p class="sub-title text">新的风暴已经出现，怎么能够停滞不前？！</p>
     <p class="text">卓尔智联一直致力于年轻科技人员的培养与发展，我们秉承着开放探索的态度，为全国年轻人搭建快速成长和展现自我的平台。心怀着人才大于一切的理念，卓尔智联正式启动第一届Z-HACK算法创新大赛，给那些科技新星一次被世界发现和关注的机会。</p>
     <p class="text">本次Z-HACK算法创新大赛包括两个赛道：</p>

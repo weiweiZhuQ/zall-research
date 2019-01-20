@@ -37,7 +37,7 @@ export default {
 }
 h2{
   width:85%;
-  height: 50px;
+  /* height: 50px; */
   line-height:50px;
   border-bottom:2px solid #e6e6e6;
   padding:20px;

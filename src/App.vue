@@ -24,8 +24,10 @@ export default {
   
 }
 *{
-   margin:0px;
-   padding:0px;
+  margin:0px;
+  padding:0px;
+  box-sizing: border-box;
+  list-style: none;
 }
 @media (min-width: 1024px){
 #app{
@@ -35,5 +37,20 @@ export default {
     }
 } /*>=1024的设备*/
 
+ @media (min-width: 992px){
+#app{
+    width:100%;
+    }
+}
+@media screen and (min-width:768px){
+#app{
+    width:100%;
+    }
+}
 
+@media screen and (min-width:480px){
+#app{
+    width:100%;
+    }
+}   
 </style>
