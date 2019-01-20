@@ -81,7 +81,7 @@ export default {
   background-size: 100% 100%;
 }
 .pbgimg1{
-  width:40%;
+  width:342px;
   margin:auto;
   height:250px;
   background:url(../../assets/bg16.jpg) no-repeat center center;

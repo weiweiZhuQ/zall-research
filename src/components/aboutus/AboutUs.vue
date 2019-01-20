@@ -71,8 +71,8 @@ export default {
 <style scoped>
 .topimg{
   width:100%;
-  height:400px;
-  background:url(../../assets/lb1.png) no-repeat center center; 
+  height:456px;
+  background:url(../../assets/lb1.png) no-repeat; 
   /* background:url(https://g.alicdn.com/atastatic/s/damo/css/img/about-workplace.jpg) no-repeat center center; */
   background-size:cover;
 }

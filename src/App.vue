@@ -31,19 +31,19 @@ export default {
 }
  @media (min-width: 1024px){
  #app{
-    width:1349px;
+    width:1346px;
     border-right:1px solid #fbfcfd;
     border-left:1px solid #fbfcfd;
     }
 }  
 /* /*>=1024的设备 */
  
- @media (min-width: 992px){
+ /* @media (min-width: 992px){
 #app{
     width:100%;
     }
-}
-@media screen and (min-width:768px){
+} */
+/* @media screen and (min-width:768px){
 #app{
     width:100%;
     }
@@ -53,5 +53,5 @@ export default {
 #app{
     width:100%;
     }
-}       
+}        */
 </style>
