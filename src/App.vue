@@ -29,14 +29,15 @@ export default {
   box-sizing: border-box;
   list-style: none;
 }
-@media (min-width: 1024px){
-#app{
-    width:70%;
-    border-left:1px solid #ccc;
-    border-right:1px solid #ccc;
+ @media (min-width: 1024px){
+ #app{
+    width:1349px;
+    border-right:1px solid #fbfcfd;
+    border-left:1px solid #fbfcfd;
     }
-} /*>=1024的设备*/
-
+}  
+/* /*>=1024的设备 */
+ 
  @media (min-width: 992px){
 #app{
     width:100%;
@@ -52,5 +53,5 @@ export default {
 #app{
     width:100%;
     }
-}   
+}       
 </style>

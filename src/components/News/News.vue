@@ -48,6 +48,6 @@ h2{
 .footer{
   width:100%;
   height: 30px;
-  background:url(https://img.alicdn.com/tfs/TB1xUlcxnCWBKNjSZFtXXaC3FXa-1920-886.png) no-repeat center center;
+  /* background:url(https://img.alicdn.com/tfs/TB1xUlcxnCWBKNjSZFtXXaC3FXa-1920-886.png) no-repeat center center; */
 }
 </style>
