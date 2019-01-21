@@ -80,18 +80,18 @@ export default {
   text-justify:inter-ideograph
 }
 .pbgimg{
-  width:80%;
+  width:70%;
   margin:auto;
-  height:300px;
-  background:url(../../assets/bg3.jpg) no-repeat center center;
-  background-size: 100% 100%;
+  height:350px;
+  background:url(../../assets/bg3.jpg) no-repeat;
+  background-size: cover;
 }
 .pbgimg1{
-  width:80%;
+  width:75%;
   margin:auto;
-  height:300px;
+  height:350px;
   background:url(../../assets/bg2.jpg) no-repeat center center;
-  background-size: 100% 100%;
+  background-size: cover;
 }
 /* .bgimg{
    width:80%;

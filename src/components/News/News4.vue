@@ -86,27 +86,28 @@ export default {
   margin:auto;
   height:300px;
   background:url(../../assets/bg11.jpg) no-repeat center center;
-  background-size: 100% 100%;
+  background-size: cover;
 }
 .pbgimg2{
   width:80%;
   margin:auto;
   height:300px;
   background:url(../../assets/bg13.jpg) no-repeat center center;
-  background-size: 100% 100%;
+  background-size: cover;
+
 }
 .pbgimg3{
   width:80%;
   margin:auto;
-  height:300px;
-  background:url(../../assets/bg12.jpg) no-repeat center center;
-  background-size: 100% 100%;
+  height:350px;
+  background:url(../../assets/bg12.jpg) no-repeat;
+  background-size: cover;
 }
 .pbgimg4{
   width:80%;
   margin:auto;
   height:300px;
   background:url(../../assets/bg14.jpg) no-repeat center center;
-  background-size: 100% 100%;
+  background-size: cover;
 }
 </style>
