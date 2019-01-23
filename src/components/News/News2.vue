@@ -56,7 +56,7 @@ export default {
   transform: translateX(100%);
 }
 .hello{
-     width:65%;
+     width:75%;
    padding:20px;
    margin:auto;
    background-color:rgba(208,208,208,0.1);
@@ -89,10 +89,10 @@ export default {
   background-size: cover;
 }
 .pbgimg1{
-  width:85%;
+  width:100%;
   margin:auto;
-  height:350px;
+  height:370px;
   background:url(../../assets/bg10.jpg) no-repeat;
-  background-size: cover;
+  background-size:100% 100%;
 }
 </style>

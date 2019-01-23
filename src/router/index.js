@@ -48,18 +48,8 @@ export default new Router({
           component: JoinUs,
           // redirect: {name: 'plan'},
           children:[
+         
           {
-            path: 'plan',
-            name: 'plan',
-            component: Plan
-          },
-          {
-            path: 'findpeople',
-            name: 'findpeople',
-            component: FindPeople
-          },
-          ]
-        },{
           path: '/news',
           name: 'news',
           component: News,

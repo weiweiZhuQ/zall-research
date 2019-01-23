@@ -215,8 +215,9 @@ export default {
 .sliderImg {
   width: 100%;
   height: 100%;
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-repeat:no-repeat;
+  background-position:center center;
+  background-size:cover;
 }
 
 .content {

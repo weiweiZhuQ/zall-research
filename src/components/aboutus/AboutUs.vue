@@ -15,17 +15,24 @@
       <div  class="text-intro">
         <p class="title">研究院简介</p>
         <p class="suojin">
-          卓尔智联研究院是卓尔控股旗下专门研究人工智能、区块链等前沿技术的科技机构。2018年，卓尔智联研究院正式成立，致力于前沿科技探索与年轻科技人员的培养与发展。凭借卓尔集团完善强大的商业贸易生态，武汉深厚的文化底蕴及优质的人才供给资源，卓尔智联研究院致力于挖掘区块链、物联网等技术领域的精英人才，为科技新星提供被世界发现和关注的机会。
+          卓尔智联研究院（Zall Research Institute of Smart Commerce）是卓尔控股旗下专门研究人工智能、区块链等前沿技术的科技机构。2018年，卓尔智联研究院正式成立，致力于前沿科技探索与年轻科技人员的培养与发展。
         </p>
         <p class="suojin">
-          卓尔智联研究院由蔡恒进教授担任执行院长。蔡院长是武汉大学管理科学与工程以及软件工程等学科教授、博导，全球金融科技实验室专家顾问，中国人工智能和大数据百人会专家，中国科学院深圳先进技术研究院多媒体集成技术研究中心客座研究员，以及中科大湖北校友会会长。蔡教授多年来致力于培养顶尖的科技人才，其指导的学生团队在国际、国内竞赛中，赢得奖项近百，包括花旗杯、微软创新杯、英特尔杯、全国挑战杯、创青春等多个重量级比赛冠军。
+          凭借卓尔集团完善强大的商业贸易生态，武汉雄厚的科教实力及优质的人才供给资源，卓尔智联研究院致力于挖掘并培养区块链、工业互联网、大数据、人工智能、物联网等技术领域的精英人才，为科技新星提供被世界发现和关注的机会。
         </p>
         <p class="suojin">
-          卓尔智联研究院由尚静女士担任常务副院长，尚静女士同时为卓链资本合伙人，旨在为科技成果落地过程中的投资与孵化提供方向的指导和资本助力。
+          在B2B领域，短期内不可能实现通用人工智能（AGI）。“术业有专攻”，人类的高级智能并非是通用的，虽然大多数人具有相似的常识，但人类个体的智能具有专业性。在部分细分的专业领域已经实现了强人工智能，机器已然超越人类，例如AlphaZero能够打败人类棋手冠军，AlphaFold能够完胜人类进行蛋白质折叠的预测，等等。
         </p>
         <p class="suojin">
-          目前，卓尔智联研究院已引进一批区块链、人工智能、物联网等领域的研究学者，在蔡恒进院长的带领下，对多个重大前沿课题进行研究。未来，研究院将不断培养科技菁英人才，科研成果将为集团、为社会真正创造价值，全方位革新和赋能B2B生态产业链的每一环。
-        </p>    
+          To C业务（B2C、C2C）是典型的大数据应用场景，但在大多数B2B业务中，并没有海量数据，B2B在智能化、信息化、互联网化仍有极大的上升空间，更需要引入人工智能技术对相对小体量的数据进行有效分析。
+        </p>  
+        <p class="suojin">
+          5G技术的出现也为人类的未来赋予了新机遇，超快速、稳定的数据传输，使得远程实时分身技术成为可能，势必将为我们未来的生活和工作方式带来前所未有的便利与变化。
+          区块链技术的核心价值在于存证（proof of existence）与通证（token），不可篡改的记录使得信用和价值得以有效传播，极大地提升交易、投资等工作的效率和可信度。
+        </p> 
+        <p class="suojin">
+          卓尔智联研究院旨在融合区块链、大数据、人工智能技术并应用于B2B领域，科研成果将为集团、社会真正创造价值，从科技与创新方面为卓尔从商业驱动平稳过渡到商业、科技双轮驱动，最终实现科技驱动贡献力量。助力实现智慧物流与仓储，全方位革新和赋能B2B生态产业链每一环，颠覆传统交易方式，重构未来商业模式，以人工智能和区块链技术打造B2B商脉（discover the first principle for B2B）。
+        </p> 
       </div>
       <div class="leaders">
         <p class="title">领导团体</p>
@@ -45,7 +52,7 @@
       </div>
       <p class="title">组织结构</p>
       <p class="suojin">
-          知识产权办公室，创新实验室，产品办公室，综合办公室
+          知识产权办公室，产品办公室，创新实验室，综合办公室
       </p>  
       <p class="pbgimg1">
       </p>
@@ -72,7 +79,7 @@ export default {
 .topimg{
   width:100%;
   height:456px;
-  background:url(../../assets/lb1.png) no-repeat; 
+  background:url(../../assets/lb1.png) no-repeat center center; 
   /* background:url(https://g.alicdn.com/atastatic/s/damo/css/img/about-workplace.jpg) no-repeat center center; */
   background-size:cover;
 }
@@ -114,6 +121,9 @@ h2{
   color: #1b2b4f;
   line-height: 32px;
   margin-bottom: 20px;
+  text-indent:2em;
+  text-align:justify;
+  text-justify:inter-ideograph
 }
 .leaders{
   width:100%;
@@ -181,10 +191,10 @@ h2{
   font-family: PingFangSC;
 }
 .pbgimg1{
-  width:80%;
+  width:623px;
   margin:auto;
-  height:300px;
-  background:url(../../assets/organize1.png) no-repeat center center;
-  background-size: 100% 100%;
+  height:320px;
+  background:url(../../assets/organize2.png) no-repeat center center;
+  background-size: cover;
 }
 </style>

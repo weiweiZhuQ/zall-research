@@ -144,10 +144,10 @@ h2{
   font-family: PingFangSC;
 }
 .pbgimg1{
-  width:60%;
+  width:433px;
   margin:auto;
-  height:350px;
-  background:url(../assets/lab1.png) no-repeat center center;
-  background-size: 100% 100%;
+  height:348px;
+  background:url(../assets/lab2.png) no-repeat;
+  background-size: cover;
 }
 </style>

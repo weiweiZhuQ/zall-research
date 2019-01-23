@@ -32,7 +32,7 @@ export default {
 .topimg{
   width:100%;
   height:456px;
-  background:url(../../assets/newsbg.jpg) no-repeat; 
+  background:url(../../assets/newsbg.jpg) no-repeat center center; 
   background-size:cover;
 }
 h2{

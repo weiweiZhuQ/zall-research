@@ -104,9 +104,9 @@ export default {
   background-size: cover;
 }
 .pbgimg4{
-  width:80%;
+  width:70%;
   margin:auto;
-  height:300px;
+  height:500px;
   background:url(../../assets/bg14.jpg) no-repeat center center;
   background-size: cover;
 }
