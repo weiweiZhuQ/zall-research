@@ -47,7 +47,9 @@
     <div class="footerContent">
         <p>联系邮箱：info@zallai.com | 地址：汉口北大道88号汉口电商大厦6层</p>
      </div>
-     
+    <div class="footerContent">
+        <a href="http://www.miibeian.gov.cn" target="_blank"><i></i>鄂ICP备19006517号</a>
+     </div>
     </footer>
   </div>
 </template>
